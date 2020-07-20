@@ -27,6 +27,9 @@ gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 
+#Use Stripe for payment processing
+gem 'stripe'
+
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 
