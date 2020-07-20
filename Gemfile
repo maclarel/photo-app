@@ -27,8 +27,15 @@ gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 
-#Use Stripe for payment processing
+# Use Stripe for payment processing
 gem 'stripe'
+
+# Handle image uploads
+gem 'carrierwave'
+gem 'mini_magick'
+
+# For handling in prod - also broken so disabling
+# gem 'fog'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
