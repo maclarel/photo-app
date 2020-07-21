@@ -1,6 +1,6 @@
 Photo upload/management app using Rails 6 with Bootstrap for [The Complete Ruby on Rails Developer Course](https://github.udemy.com/course/the-complete-ruby-on-rails-developer-course).
 
-This features interactive user sign-up and profile management using `Devise` as well as API integration with `stripe.com/` for user payments*. This also implements restricted image uploads (max 5MB) and dynamic resizing.
+This features interactive user sign-up and profile management using `Devise`, email distribution via SendGrid, and API integration with `stripe.com/` for user payments*. This also implements restricted image uploads (max 5MB) and dynamic resizing.
 
 To run:
 
